@@ -1,3 +1,4 @@
 ## This is my Hello Microverse' project
 
-This is my day 2 project
+
+This is my first project at microverse
