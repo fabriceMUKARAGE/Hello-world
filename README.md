@@ -1,4 +1,10 @@
-## This is my Hello Microverse' project
+
+# 📖 ['Hello Microverse' project] <a name="about-project"></a>
 
 
-This is my first project day 2
+## 👥 Author <a name="authors"></a>
+
+👤 **Author**
+
+- GitHub: [@fabriceMUKARAGE](https://github.com/fabriceMUKARAGE)
+
