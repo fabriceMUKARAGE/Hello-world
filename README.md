@@ -2,8 +2,9 @@
 # 📖 ['Hello Microverse' project] <a name="about-project"></a>
 
 
-## 👥 Author <a name="authors"></a>
+##👤 Author <a name="authors"></a>
 
-👤 **Author**
+👤 **Fabrice MUKARAGE**
 
 - GitHub: [@fabriceMUKARAGE](https://github.com/fabriceMUKARAGE)
+
