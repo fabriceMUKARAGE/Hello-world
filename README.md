@@ -4,7 +4,7 @@
 
 ##👤 Author <a name="authors"></a>
 
-👤 **Fabrice Mukarage**
+👤 **Fabrice MUKARAGE**
 
 - GitHub: [@fabriceMUKARAGE](https://github.com/fabriceMUKARAGE)
 
